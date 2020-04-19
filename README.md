@@ -4,7 +4,7 @@
 
 ### Being stuck in quarantine, I have decided in using Git to journal my journey of 100 days of code. It is a challenge which anyone can participate in.I am documenting the journey in my [Twitter](https://twitter.com/iamudattam)
 
-# Rules
+## Rules
 
 ### Learn something new everyday and publish what you have learnt that day in Github.
 
