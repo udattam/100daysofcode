@@ -13,4 +13,4 @@
 ### Use the #100daysofcode while publishing in any social media platform.
 
 [Instagram](https://instagram.com/udattam)
-[Twitter](htts://twitter.com/iamudattam)
+[Twitter](https://twitter.com/iamudattam)
